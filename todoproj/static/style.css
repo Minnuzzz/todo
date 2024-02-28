@@ -1,0 +1,14 @@
+.banner{
+background-color:MediumVioletRed;
+height:150px;
+width:150%;
+margin-bottom:50px;
+}
+.banner-text
+{
+ font-family: Verdana, sans-serif;
+top:20%;
+position:absolute;
+font-size:50px;
+color:white;
+}
